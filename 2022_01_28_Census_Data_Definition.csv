@@ -1,0 +1,672 @@
+﻿Description,Name
+% Hhlds Having A Mortgage Debt (2019),PHACYMORT
+% Hhlds Own a Primary Residence (2019),PHACYDWL
+% Hhlds Own Any Financial Assets (2019),PHACYANY
+% Hhlds Own Any Non-Financial Assets (2019),PHACYANYNF
+% Hhlds Own Bonds (2019),PHACYBOND
+% Hhlds Own Business Assets (2019),PHACYBUS
+% Hhlds Own Certificates of Deposit (2019),PHACYCD
+% Hhlds Own Investment Real Estate (2019),PHACYIRE
+% Hhlds Own Life Insurance with Cash Value (2019),PHACYLIFE
+% Hhlds Own Mutual Funds (2019),PHACYMUTF
+% Hhlds Own Other Financial Assets (2019),PHACYOTFI
+% Hhlds Own Other Managed Assets (2019),PHACYOTMG
+% Hhlds Own Other Non-Financial Assets (2019),PHACYOTNF
+% Hhlds Own Retirement Accounts (2019),PHACYRETR
+% Hhlds Own Savings Bonds (2019),PHACYSAVB
+% Hhlds Own Stocks (2019),PHACYSTCK
+% Hhlds Own Transaction Accounts (2019),PHACYTRAN
+% Hhlds Own Vehicle Assets (2019),PHACYVEH
+% Hhlds With Any Debt (2019),PHACYDANY
+% Hhlds With Credit Card Debt (2019),PHACYCREDC
+% Hhlds With Installment Payment Debt (2019),PHACYINSTL
+% Hhlds With Investment Real Estate Debt (2019),PHACYDIRE
+% Hhlds With Other Debt (2019),PHACYDOTHR
+% Hhlds With Other Lines of Credit Debt (2019),PHACYLNCRE
+% of Hhlds Owning a Secondary Residence (2019),PHACYSRE
+Agg Credit Card Debt (2019),ADBCYCRED
+Agg Family Hhld Inc (2019),INCCYAGGFA
+Agg Group Quarters Income (2019),INCCYAGGGP
+Agg Installment Loan Debt (2019),ADBCYINSTL
+Agg Investment Real Estate Debt (2019),ADBCYIRE
+Agg Lines of Credit Debt (2019),ADBCYLNCRE
+Agg Mortgage Debt (2019),ADBCYMORT
+Agg Net Worth (2019),WRHCYAGG
+Agg Non-Family Hhld Inc (2019),INCCYAGGNF
+Agg Other Debt (2019),ADBCYOTHR
+Agg Total Debts (2019),ADBCYANY
+Agg Value of Any Financial Assets (2019),ASTCYANY
+Agg Value of Any Non-Financial Assets (2019),ASTCYANYNF
+Agg Value of Bonds (Not US Savings) (2019),ASTCYBOND
+Agg Value of Business Equity (2019),ASTCYBUS
+Agg Value of Cash Value Life Ins (2019),ASTCYLIFE
+Agg Value of Certificates of Deposit (2019),ASTCYCD
+Agg Value of Home Equity (2019),ASTCYDWL
+Agg Value of Investment Property Equity (2019),ASTCYIRE
+Agg Value of Mutual Funds (2019),ASTCYMUTF
+Agg Value of Other Financial Assets (2019),ASTCYOTFI
+Agg Value of Other Managed Accounts (2019),ASTCYOTMG
+Agg Value of Other Non-Financial Assets (2019),ASTCYOTNF
+Agg Value of Retirement Accounts (2019),ASTCYRETR
+Agg Value of Savings Bonds (2019),ASTCYSAVB
+Agg Value of Stocks (2019),ASTCYSTCK
+Agg Value of Transaction Accounts (2019),ASTCYTRAN
+Agg Value of Vehicles Owned (2019),ASTCYVEH
+Agg vehicles available owner Hhlds (2019),VAVCYOTOT
+Agg vehicles available renter Hhlds (2019),VAVCYRTOT
+Aggegrate Income (2019),INCCYAGG
+Aggregate Assets (2019),WRHCYASS
+Aggregate Debts (2019),WRHCYDBT
+Aggregate Household Income (2019),INCCYAGGHD
+Aggregate Value of Secondary Home Equity (2019),ASTCYSRE
+Average Credit Card Debt (2019),HMVCYCREDC
+Average Installment Loan Debt (2019),HMVCYINSTL
+Average Investment Real Estate Debt (2019),HMVCYDIRE
+Average Lines of Credit Debt (2019),HMVCYLNCRE
+Average Mortgage Debt (2019),HMVCYMORT
+Average Value of Any Financial Assets (2019),HMVCYANY
+Average Value of Any Non-Financial Assets (2019),HMVCYANYNF
+Average Value of Bonds (Not US Savings) (2019),HMVCYBOND
+Average Value of Business Equity (2019),HMVCYBUS
+Average Value of Cash Value Life Ins (2019),HMVCYLIFE
+Average Value of Certificates of Deposit (2019),HMVCYCD
+Average Value of Home Equity (2019),HMVCYDWL
+Average Value of Investment Property Equity (2019),HMVCYIRE
+Average Value of Mutual Funds (2019),HMVCYMUTF
+Average Value of Other Financial Assets (2019),HMVCYOTFI
+Average Value of Other Managed Accounts (2019),HMVCYOTMG
+Average Value of Other Non-Financial Assets (2019),HMVCYOTNF
+Average Value of Retirement Accounts (2019),HMVCYRETR
+Average Value of Savings Bonds (2019),HMVCYSAVB
+Average Value of Stocks (2019),HMVCYSTCK
+Average Value of Transaction Accounts (2019),HMVCYTRAN
+Average Value of Vehicles Owned (2019),HMVCYVEH
+Avg family income (2019),INCCYAVEFA
+Avg Family Size (2019),FAMCYAVESZ
+Avg household Income (2019),INCCYAVEHH
+Avg Household Net Worth (2019),WRHCYAVEHH
+Avg Household Size (2019),HHDCYAVESZ
+Demographic Dimensions: Affluence and Education (2019),DIMCYAFFLU
+Demographic Dimensions: Age (2019),DIMCYAGE
+Demographic Dimensions: Armed Forces (2019),DIMCYMILIT
+Demographic Dimensions: Asian (2019),DIMCYASIAN
+Demographic Dimensions: College Students (2019),DIMCYCOLL
+Demographic Dimensions: Correctional Facilities (2019),DIMCYCORR
+Demographic Dimensions: Expensive Housing (2019),DIMCYEXPH
+Demographic Dimensions: Family Status (2019),DIMCYFAMST
+Demographic Dimensions: Farm Workers (2019),DIMCYFARMW
+Demographic Dimensions: Firefighters (2019),DIMCYFIREF
+Demographic Dimensions: Government Workers (2019),DIMCYGOVTW
+Demographic Dimensions: Health Care Workers (2019),DIMCYHLTEM
+Demographic Dimensions: Hispanic (2019),DIMCYHISP
+Demographic Dimensions: Juvenile Homes (2019),DIMCYJUVE
+Demographic Dimensions: Living Rent Free (2019),DIMCYRNTF
+Demographic Dimensions: Low Income Renters (2019),DIMCYLRENT
+Demographic Dimensions: Middle Class Housing (2019),DIMCYMCHOU
+Demographic Dimensions: Miners (2019),DIMCYMINES
+Demographic Dimensions: Mobile Homes and Older Housing (2019),DIMCYMOBH
+Demographic Dimensions: Native Americans (2019),DIMCYNATAM
+Demographic Dimensions: New and Growth Areas (2019),DIMCYGRWTH
+Demographic Dimensions: Retail Workers (2019),DIMCYRETEM
+Demographic Dimensions: Seasonal Housing (2019),DIMCYSEAS
+Demographic Dimensions: Self Employed and Work At Home (2019),DIMCYSLFEM
+Demographic Dimensions: Urban Commuters (2019),DIMCYURBCM
+Demographic Dimensions: White and Black (2019),DIMCYWHBLK
+Divorced (2019),MARCYDIVOR
+Families female no husband children (2019),HHSCYLPFCH
+Families female no husband no children (2019),HHSCYLPFNC
+Families Inc <$5000 (2019),FIXCYLT05
+Families Inc $5000-9999 (2019),FIXCY0510
+Families Inc $10000-14999 (2019),FIXCY1015
+Families Inc $15000-19999 (2019),FIXCY1520
+Families Inc $20000-24999 (2019),FIXCY2025
+Families Inc $25000-29999 (2019),FIXCY2530
+Families Inc $30000-34999 (2019),FIXCY3035
+Families Inc $35000-39999 (2019),FIXCY3540
+Families Inc $40000-44999 (2019),FIXCY4045
+Families Inc $45000-49999 (2019),FIXCY4550
+Families Inc $50000-54999 (2019),FIXCY5055
+Families Inc $55000-59999 (2019),FIXCY5560
+Families Inc $60000-64999 (2019),FIXCY6065
+Families Inc $65000-69999 (2019),FIXCY6570
+Families Inc $70000-74999 (2019),FIXCY7075
+Families Inc $75000-79999 (2019),FIXCY7580
+Families Inc $80000-84999 (2019),FIXCY8085
+Families Inc $85000-89999 (2019),FIXCY8590
+Families Inc $90000-94999 (2019),FIXCY9095
+Families Inc $95000-99999 (2019),FIXCY95100
+Families Inc $100000-124999 (2019),FIXCY10025
+Families Inc $125000-149999 (2019),FIXCY12550
+Families Inc $150000-199999 (2019),FIXCY15020
+Families Inc $200000-249999 (2019),FIXCY20050
+Families Inc $250000-499999 (2019),FIXCY25050
+Families Inc $500000+ (2019),FIXCYGT500
+Families male no wife no childen (2019),HHSCYLPMNC
+Families male no wife w children (2019),HHSCYLPMCH
+Families married couple no children (2019),HHSCYMCFNC
+Families married couple w children (2019),HHSCYMCFCH
+Families with Persons < 18 (2019),AGHCYFAM
+Family Hhld Inc < $10000 (2019),FINCYLT10
+Family Hhld Inc > $200000 (2019),FINCYGT200
+Family Hhld Inc $10000-$14999 (2019),FINCY1015
+Family Hhld Inc $15000-$19999 (2019),FINCY1520
+Family Hhld Inc $20000-$24999 (2019),FINCY2025
+Family Hhld Inc $25000-$29999 (2019),FINCY2530
+Family Hhld Inc $30000-$34999 (2019),FINCY3035
+Family Hhld Inc $35000-$39999 (2019),FINCY3540
+Family Hhld Inc $40000-$44999 (2019),FINCY4045
+Family Hhld Inc $45000-$49999 (2019),FINCY4550
+Family Hhld Inc $50000-$59999 (2019),FINCY5060
+Family Hhld Inc $60000-$74999 (2019),FINCY6075
+Family Hhld Inc $75000-$99999 (2019),FINCY75100
+Family Hhld Inc $100000-$124999 (2019),FINCY10025
+Family Hhld Inc $125000-$149999 (2019),FINCY12550
+Family Hhld Inc $150000-$199999 (2019),FINCY15020
+Family Households (2019),HHDCYFAM
+Female Pop Age < 1 Year (2019),AGDCYFLT1
+Female Pop Age >85 (2019),AGDCYFGT85
+Female Pop Age 1 (2019),AGDCYF1
+Female Pop Age 2 (2019),AGDCYF2
+Female Pop Age 3 (2019),AGDCYF3
+Female Pop Age 4 (2019),AGDCYF4
+Female Pop Age 5 (2019),AGDCYF5
+Female Pop Age 6 (2019),AGDCYF6
+Female Pop Age 7 (2019),AGDCYF7
+Female Pop Age 8 (2019),AGDCYF8
+Female Pop Age 9 (2019),AGDCYF9
+Female Pop Age 10 (2019),AGDCYF10
+Female Pop Age 11 (2019),AGDCYF11
+Female Pop Age 12 (2019),AGDCYF12
+Female Pop Age 13 (2019),AGDCYF13
+Female Pop Age 14 (2019),AGDCYF14
+Female Pop Age 15 (2019),AGDCYF15
+Female Pop Age 16 (2019),AGDCYF16
+Female Pop Age 17 (2019),AGDCYF17
+Female Pop Age 18 (2019),AGDCYF18
+Female Pop Age 19 (2019),AGDCYF19
+Female Pop Age 20-24 (2019),AGDCYF2024
+Female Pop Age 25-29 (2019),AGDCYF2529
+Female Pop Age 30-34 (2019),AGDCYF3034
+Female Pop Age 35-39 (2019),AGDCYF3539
+Female Pop Age 40-44 (2019),AGDCYF4044
+Female Pop Age 45-49 (2019),AGDCYF4549
+Female Pop Age 50-54 (2019),AGDCYF5054
+Female Pop Age 55-59 (2019),AGDCYF5559
+Female Pop Age 60-64 (2019),AGDCYF6064
+Female Pop Age 65-69 (2019),AGDCYF6569
+Female Pop Age 70-74 (2019),AGDCYF7074
+Female Pop Age 75-79 (2019),AGDCYF7579
+Female Pop Age 80-84 (2019),AGDCYF8084
+Fraction,Fraction
+Hhld Income < $10000 (2019),HINCYLT10
+Hhld Income > $200000 (2019),HINCYGT200
+Hhld Income $10000-$14999 (2019),HINCY1015
+Hhld Income $15000-$19999 (2019),HINCY1520
+Hhld Income $20000-$24999 (2019),HINCY2025
+Hhld Income $25000-$29999 (2019),HINCY2530
+Hhld Income $30000-$34999 (2019),HINCY3035
+Hhld Income $35000-$39999 (2019),HINCY3540
+Hhld Income $40000-$44999 (2019),HINCY4045
+Hhld Income $45000-$49999 (2019),HINCY4550
+Hhld Income $50000-$59999 (2019),HINCY5060
+Hhld Income $60000-$74999 (2019),HINCY6075
+Hhld Income $75000-$99999 (2019),HINCY75100
+Hhld Income $100000-$124999 (2019),HINCY10025
+Hhld Income $125000-$149999 (2019),HINCY12550
+Hhld Income $150000-$199999 (2019),HINCY15020
+Hhlder Age <25 with Inc $10000 to $14999 (2019),HINCYA2402
+Hhlder Age <25 with Inc $15000 to $19999 (2019),HINCYA2403
+Hhlder Age <25 with Inc $20000 to $24999 (2019),HINCYA2404
+Hhlder Age <25 with Inc $25000 to $29999 (2019),HINCYA2405
+Hhlder Age <25 with Inc $30000 to $34999 (2019),HINCYA2406
+Hhlder Age <25 with Inc $35000 to $39999 (2019),HINCYA2407
+Hhlder Age <25 with Inc $40000 to $44999 (2019),HINCYA2408
+Hhlder Age <25 with Inc $45000 to $49999 (2019),HINCYA2409
+Hhlder Age <25 with Inc $50000 to $59999 (2019),HINCYA2410
+Hhlder Age <25 with Inc $60000 to $74999 (2019),HINCYA2411
+Hhlder Age <25 with Inc $75000 to $99999 (2019),HINCYA2412
+Hhlder Age <25 with Inc $100000 to $124999 (2019),HINCYA2413
+Hhlder Age <25 with Inc $125000 to $149999 (2019),HINCYA2414
+Hhlder Age <25 with Inc $150000 to $199999 (2019),HINCYA2415
+Hhlder Age <25 with Inc $200000 or more (2019),HINCYA2416
+Hhlder Age <25 with Inc Less than $10000 (2019),HINCYA2401
+Hhlder Age 25-34 with Inc $10000 to $14999 (2019),HINCYA2502
+Hhlder Age 25-34 with Inc $15000 to $19999 (2019),HINCYA2503
+Hhlder Age 25-34 with Inc $20000 to $24999 (2019),HINCYA2504
+Hhlder Age 25-34 with Inc $25000 to $29999 (2019),HINCYA2505
+Hhlder Age 25-34 with Inc $30000 to $34999 (2019),HINCYA2506
+Hhlder Age 25-34 with Inc $35000 to $39999 (2019),HINCYA2507
+Hhlder Age 25-34 with Inc $40000 to $44999 (2019),HINCYA2508
+Hhlder Age 25-34 with Inc $45000 to $49999 (2019),HINCYA2509
+Hhlder Age 25-34 with Inc $50000 to $59999 (2019),HINCYA2510
+Hhlder Age 25-34 with Inc $60000 to $74999 (2019),HINCYA2511
+Hhlder Age 25-34 with Inc $75000 to $99999 (2019),HINCYA2512
+Hhlder Age 25-34 with Inc $100000 to $124999 (2019),HINCYA2513
+Hhlder Age 25-34 with Inc $125000 to $149999 (2019),HINCYA2514
+Hhlder Age 25-34 with Inc $150000 to $199999 (2019),HINCYA2515
+Hhlder Age 25-34 with Inc $200000 or more (2019),HINCYA2516
+Hhlder Age 25-34 with Inc Less than $10000 (2019),HINCYA2501
+Hhlder Age 35-44 with Inc $10000 to $14999 (2019),HINCYA3502
+Hhlder Age 35-44 with Inc $15000 to $19999 (2019),HINCYA3503
+Hhlder Age 35-44 with Inc $20000 to $24999 (2019),HINCYA3504
+Hhlder Age 35-44 with Inc $25000 to $29999 (2019),HINCYA3505
+Hhlder Age 35-44 with Inc $30000 to $34999 (2019),HINCYA3506
+Hhlder Age 35-44 with Inc $35000 to $39999 (2019),HINCYA3507
+Hhlder Age 35-44 with Inc $40000 to $44999 (2019),HINCYA3508
+Hhlder Age 35-44 with Inc $45000 to $49999 (2019),HINCYA3509
+Hhlder Age 35-44 with Inc $50000 to $59999 (2019),HINCYA3510
+Hhlder Age 35-44 with Inc $60000 to $74999 (2019),HINCYA3511
+Hhlder Age 35-44 with Inc $75000 to $99999 (2019),HINCYA3512
+Hhlder Age 35-44 with Inc $100000 to $124999 (2019),HINCYA3513
+Hhlder Age 35-44 with Inc $125000 to $149999 (2019),HINCYA3514
+Hhlder Age 35-44 with Inc $150000 to $199999 (2019),HINCYA3515
+Hhlder Age 35-44 with Inc $200000 or more (2019),HINCYA3516
+Hhlder Age 35-44 with Inc Less than $10000 (2019),HINCYA3501
+Hhlder Age 45-54 with Inc $10000 to $14999 (2019),HINCYA4502
+Hhlder Age 45-54 with Inc $15000 to $19999 (2019),HINCYA4503
+Hhlder Age 45-54 with Inc $20000 to $24999 (2019),HINCYA4504
+Hhlder Age 45-54 with Inc $25000 to $29999 (2019),HINCYA4505
+Hhlder Age 45-54 with Inc $30000 to $34999 (2019),HINCYA4506
+Hhlder Age 45-54 with Inc $35000 to $39999 (2019),HINCYA4507
+Hhlder Age 45-54 with Inc $40000 to $44999 (2019),HINCYA4508
+Hhlder Age 45-54 with Inc $45000 to $49999 (2019),HINCYA4509
+Hhlder Age 45-54 with Inc $50000 to $59999 (2019),HINCYA4510
+Hhlder Age 45-54 with Inc $60000 to $74999 (2019),HINCYA4511
+Hhlder Age 45-54 with Inc $75000 to $99999 (2019),HINCYA4512
+Hhlder Age 45-54 with Inc $100000 to $124999 (2019),HINCYA4513
+Hhlder Age 45-54 with Inc $125000 to $149999 (2019),HINCYA4514
+Hhlder Age 45-54 with Inc $150000 to $199999 (2019),HINCYA4515
+Hhlder Age 45-54 with Inc $200000 or more (2019),HINCYA4516
+Hhlder Age 45-54 with Inc Less than $10000 (2019),HINCYA4501
+Hhlder Age 55-64 with Inc $10000 to $14999 (2019),HINCYA5502
+Hhlder Age 55-64 with Inc $15000 to $19999 (2019),HINCYA5503
+Hhlder Age 55-64 with Inc $20000 to $24999 (2019),HINCYA5504
+Hhlder Age 55-64 with Inc $25000 to $29999 (2019),HINCYA5505
+Hhlder Age 55-64 with Inc $30000 to $34999 (2019),HINCYA5506
+Hhlder Age 55-64 with Inc $35000 to $39999 (2019),HINCYA5507
+Hhlder Age 55-64 with Inc $40000 to $44999 (2019),HINCYA5508
+Hhlder Age 55-64 with Inc $45000 to $49999 (2019),HINCYA5509
+Hhlder Age 55-64 with Inc $50000 to $59999 (2019),HINCYA5510
+Hhlder Age 55-64 with Inc $60000 to $74999 (2019),HINCYA5511
+Hhlder Age 55-64 with Inc $75000 to $99999 (2019),HINCYA5512
+Hhlder Age 55-64 with Inc $100000 to $124999 (2019),HINCYA5513
+Hhlder Age 55-64 with Inc $125000 to $149999 (2019),HINCYA5514
+Hhlder Age 55-64 with Inc $150000 to $199999 (2019),HINCYA5515
+Hhlder Age 55-64 with Inc $200000 or more (2019),HINCYA5516
+Hhlder Age 55-64 with Inc Less than $10000 (2019),HINCYA5501
+Hhlder Age 65-74 with Inc $10000 to $14999 (2019),HINCYA6502
+Hhlder Age 65-74 with Inc $15000 to $19999 (2019),HINCYA6503
+Hhlder Age 65-74 with Inc $20000 to $24999 (2019),HINCYA6504
+Hhlder Age 65-74 with Inc $25000 to $29999 (2019),HINCYA6505
+Hhlder Age 65-74 with Inc $30000 to $34999 (2019),HINCYA6506
+Hhlder Age 65-74 with Inc $35000 to $39999 (2019),HINCYA6507
+Hhlder Age 65-74 with Inc $40000 to $44999 (2019),HINCYA6508
+Hhlder Age 65-74 with Inc $45000 to $49999 (2019),HINCYA6509
+Hhlder Age 65-74 with Inc $50000 to $59999 (2019),HINCYA6510
+Hhlder Age 65-74 with Inc $60000 to $74999 (2019),HINCYA6511
+Hhlder Age 65-74 with Inc $75000 to $99999 (2019),HINCYA6512
+Hhlder Age 65-74 with Inc $100000 to $124999 (2019),HINCYA6513
+Hhlder Age 65-74 with Inc $125000 to $149999 (2019),HINCYA6514
+Hhlder Age 65-74 with Inc $150000 to $199999 (2019),HINCYA6515
+Hhlder Age 65-74 with Inc $200000 or more (2019),HINCYA6516
+Hhlder Age 65-74 with Inc Less than $10000 (2019),HINCYA6501
+Hhlder Age 75+ with Inc $10000 to $14999 (2019),HINCYA7502
+Hhlder Age 75+ with Inc $15000 to $19999 (2019),HINCYA7503
+Hhlder Age 75+ with Inc $20000 to $24999 (2019),HINCYA7504
+Hhlder Age 75+ with Inc $25000 to $29999 (2019),HINCYA7505
+Hhlder Age 75+ with Inc $30000 to $34999 (2019),HINCYA7506
+Hhlder Age 75+ with Inc $35000 to $39999 (2019),HINCYA7507
+Hhlder Age 75+ with Inc $40000 to $44999 (2019),HINCYA7508
+Hhlder Age 75+ with Inc $45000 to $49999 (2019),HINCYA7509
+Hhlder Age 75+ with Inc $50000 to $59999 (2019),HINCYA7510
+Hhlder Age 75+ with Inc $60000 to $74999 (2019),HINCYA7511
+Hhlder Age 75+ with Inc $75000 to $99999 (2019),HINCYA7512
+Hhlder Age 75+ with Inc $100000 to $124999 (2019),HINCYA7513
+Hhlder Age 75+ with Inc $125000 to $149999 (2019),HINCYA7514
+Hhlder Age 75+ with Inc $150000 to $199999 (2019),HINCYA7515
+Hhlder Age 75+ with Inc $200000 or more (2019),HINCYA7516
+Hhlder Age 75+ with Inc Less than $10000 (2019),HINCYA7501
+Hhlds 1-person (2019),HHDCYS1
+Hhlds 2-persons (2019),HHDCYS2
+Hhlds 3-persons (2019),HHDCYS3
+Hhlds 4-persons (2019),HHDCYS4
+Hhlds 5-persons (2019),HHDCYS5
+Hhlds 6-persons (2019),HHDCYS6
+Hhlds 7+ persons (2019),HHDCYS7
+Hhlds Having A Mortgage Debt (2019),HDBCYMORT
+Hhlds householder 15-24 yrs (2019),HAGCY1524
+Hhlds householder 25-34 yrs (2019),HAGCY2534
+Hhlds householder 35-44 yrs (2019),HAGCY3544
+Hhlds householder 45-54 yrs (2019),HAGCY4554
+Hhlds householder 55-64 yrs (2019),HAGCY5564
+Hhlds householder 65-74 yrs (2019),HAGCY6574
+Hhlds householder 75-84 yrs (2019),HAGCY7584
+Hhlds householder 85+ yrs  (2019),HAGCYGT85
+Hhlds income <$5000 (2019),HIXCYLT05
+Hhlds income $5000-9999 (2019),HIXCY0510
+Hhlds income $10000-14999 (2019),HIXCY1015
+Hhlds income $15000-19999 (2019),HIXCY1520
+Hhlds income $20000-24999 (2019),HIXCY2025
+Hhlds income $25000-29999 (2019),HIXCY2530
+Hhlds income $30000-34999 (2019),HIXCY3035
+Hhlds income $35000-39999 (2019),HIXCY3540
+Hhlds income $40000-44999 (2019),HIXCY4045
+Hhlds income $45000-49999 (2019),HIXCY4550
+Hhlds income $50000-54999 (2019),HIXCY5055
+Hhlds income $55000-59999 (2019),HIXCY5560
+Hhlds income $60000-64999 (2019),HIXCY6065
+Hhlds income $65000-69999 (2019),HIXCY6570
+Hhlds income $70000-74999 (2019),HIXCY7075
+Hhlds income $75000-79999 (2019),HIXCY7580
+Hhlds income $80000-84999 (2019),HIXCY8085
+Hhlds income $85000-89999 (2019),HIXCY8590
+Hhlds income $90000-94999 (2019),HIXCY9095
+Hhlds income $95000-99999 (2019),HIXCY95100
+Hhlds income $100000-124999 (2019),HIXCY10025
+Hhlds income $125000-149999 (2019),HIXCY12550
+Hhlds income $150000-199999 (2019),HIXCY15020
+Hhlds income $200000-249999 (2019),HIXCY20050
+Hhlds income $250000-499999 (2019),HIXCY25050
+Hhlds income $500000+ (2019),HIXCYGT500
+Hhlds Owning a Primary Residence (2019),HAOCYDWL
+Hhlds Owning a Secondary Residence (2019),HAOCYSRE
+Hhlds Owning Any Financial Assets (2019),HAOCYANYF
+Hhlds Owning Any Non-Financial Assets (2019),HAOCYANYNF
+Hhlds Owning Bonds (2019),HAOCYBOND
+Hhlds Owning Business Assets (2019),HAOCYBUS
+Hhlds Owning Certificates of Deposit (2019),HAOCYCD
+Hhlds Owning Investment Real Estate (2019),HAOCYIRE
+Hhlds Owning Life Insurance with Cash Value (2019),HAOCYLIFE
+Hhlds Owning Mutual Funds (2019),HAOCYMUTF
+Hhlds Owning Other Financial Assets (2019),HAOCYOTFI
+Hhlds Owning Other Managed Assets (2019),HAOCYOTMG
+Hhlds Owning Other Non-Financial Assets (2019),HAOCYOTNF
+Hhlds Owning Retirement Accounts (2019),HAOCYRETR
+Hhlds Owning Savings Bonds (2019),HAOCYSAVB
+Hhlds Owning Stocks (2019),HAOCYSTCK
+Hhlds Owning Transaction Accounts (2019),HAOCYTRAN
+Hhlds Owning Vehicle Assets (2019),HAOCYVEH
+Hhlds with Any Debt (2019),HDBCYANY
+Hhlds With Credit Card Debt (2019),HDBCYCRED
+Hhlds With Debt Service >40% Income (2019),HDDBT40
+Hhlds With Installment Payment Debt (2019),HDBCYINSTL
+Hhlds With Investment Real Estate Debt (2019),HDBCYIRE
+Hhlds With Other Debt (2019),HDBCYOTHR
+Hhlds With Other Lines of Credit Debt (2019),HDBCYLNCRE
+Hhlds With Payments Overdue 60+ Days (2019),HDPMTDUE60
+Hhlds: No Vehicle Available (2019),VPHCYNONE
+Hhlds: One Vehicle Available (2019),VPHCY1
+Hhlds: Two or More Vehicles Available (2019),VPHCYGT1
+Hispanic American Indian (2019),RCHCYAMHIS
+Hispanic Asian (2019),RCHCYASHIS
+Hispanic Black (2019),RCHCYBLHIS
+Hispanic Hawaiian/Pacific Islander (2019),RCHCYHAHIS
+Hispanic Multiple Race (2019),RCHCYMUHIS
+Hispanic Other Race (2019),RCHCYOTHIS
+Hispanic White (2019),RCHCYWHHIS
+Households (2019),HHDCY
+Housing units (2019),DWLCY
+Housing units occupied (2019),DWLCYOCCUP
+Housing units vacant (2019),DWLCYVACNT
+Institutional Group Quarters Population (2019),POPCYGRPI
+Male Pop Age < 1 Year (2019),AGDCYMLT1
+Male Pop Age >85 (2019),AGDCYMGT85
+Male Pop Age 1 (2019),AGDCYM1
+Male Pop Age 2 (2019),AGDCYM2
+Male Pop Age 3 (2019),AGDCYM3
+Male Pop Age 4 (2019),AGDCYM4
+Male Pop Age 5 (2019),AGDCYM5
+Male Pop Age 6 (2019),AGDCYM6
+Male Pop Age 7 (2019),AGDCYM7
+Male Pop Age 8 (2019),AGDCYM8
+Male Pop Age 9 (2019),AGDCYM9
+Male Pop Age 10 (2019),AGDCYM10
+Male Pop Age 11 (2019),AGDCYM11
+Male Pop Age 12 (2019),AGDCYM12
+Male Pop Age 13 (2019),AGDCYM13
+Male Pop Age 14 (2019),AGDCYM14
+Male Pop Age 15 (2019),AGDCYM15
+Male Pop Age 16 (2019),AGDCYM16
+Male Pop Age 17 (2019),AGDCYM17
+Male Pop Age 18 (2019),AGDCYM18
+Male Pop Age 19 (2019),AGDCYM19
+Male Pop Age 20-24 (2019),AGDCYM2024
+Male Pop Age 25-29 (2019),AGDCYM2529
+Male Pop Age 30-34 (2019),AGDCYM3034
+Male Pop Age 35-39 (2019),AGDCYM3539
+Male Pop Age 40-44 (2019),AGDCYM4044
+Male Pop Age 45-49 (2019),AGDCYM4549
+Male Pop Age 50-54 (2019),AGDCYM5054
+Male Pop Age 55-59 (2019),AGDCYM5559
+Male Pop Age 60-64 (2019),AGDCYM6064
+Male Pop Age 65-69 (2019),AGDCYM6569
+Male Pop Age 70-74 (2019),AGDCYM7074
+Male Pop Age 75-79 (2019),AGDCYM7579
+Male Pop Age 80-84 (2019),AGDCYM8084
+Median Age (2019),AGECYMED
+Median Age Females (2019),AGECYMEDF
+Median Age Males (2019),AGECYMEDM
+Median Age of Householder (2019),HHDCYMEDAG
+Median family income (2019),INCCYMEDFA
+Median household income (2019),INCCYMEDHH
+Median Income: Head of Hhld Age <25 (2019),HINCYMED24
+Median Income: Head of Hhld Age >75 (2019),HINCYMED75
+Median Income: Head of Hhld Age 25-34 (2019),HINCYMED25
+Median Income: Head of Hhld Age 35-44 (2019),HINCYMED35
+Median Income: Head of Hhld Age 45-54 (2019),HINCYMED45
+Median Income: Head of Hhld Age 55-64 (2019),HINCYMED55
+Median Income: Head of Hhld Age 65-74 (2019),HINCYMED65
+Never Married (2019),MARCYNEVER
+Non Hispanic American Indian (2019),RCHCYAMNHS
+Non Hispanic Asian (2019),RCHCYASNHS
+Non Hispanic Black (2019),RCHCYBLNHS
+Non Hispanic Hawaiian/Pacific Islander (2019),RCHCYHANHS
+Non Hispanic Multiple Race (2019),RCHCYMUNHS
+Non Hispanic Other Race (2019),RCHCYOTNHS
+Non Hispanic White (2019),RCHCYWHNHS
+Non-Families with Persons < 18 (2019),AGHCYNFAM
+Non-Family Hhld Inc < $10000 (2019),NINCYLT10
+Non-Family Hhld Inc > $200000 (2019),NINCYGT200
+Non-Family Hhld Inc $10000-$14999 (2019),NINCY1015
+Non-Family Hhld Inc $15000-$19999 (2019),NINCY1520
+Non-Family Hhld Inc $20000-$24999 (2019),NINCY2025
+Non-Family Hhld Inc $25000-$29999 (2019),NINCY2530
+Non-Family Hhld Inc $30000-$34999 (2019),NINCY3035
+Non-Family Hhld Inc $35000-$39999 (2019),NINCY3540
+Non-Family Hhld Inc $40000-$44999 (2019),NINCY4045
+Non-Family Hhld Inc $45000-$49999 (2019),NINCY4550
+Non-Family Hhld Inc $50000-$59999 (2019),NINCY5060
+Non-Family Hhld Inc $60000-$74999 (2019),NINCY6075
+Non-Family Hhld Inc $75000-$99999 (2019),NINCY75100
+Non-Family Hhld Inc $100000-$124999 (2019),NINCY10025
+Non-Family Hhld Inc $125000-$149999 (2019),NINCY12550
+Non-Family Hhld Inc $150000-$199999 (2019),NINCY15020
+Non-Family Households (2019),HHDCYNFM
+Non-Institutional Group Quarters college dormitories (2019),GRPCYCOLL
+Non-Institutional Group Quarters military barracks (2019),GRPCYMIL
+Non-Institutional Group Quarters Population (2019),POPCYGRPNI
+NonFamilies Inc <$5000 (2019),NIXCYLT05
+NonFamilies Inc $5000-9999 (2019),NIXCY0510
+NonFamilies Inc $10000-14999 (2019),NIXCY1015
+NonFamilies Inc $15000-19999 (2019),NIXCY1520
+NonFamilies Inc $20000-24999 (2019),NIXCY2025
+NonFamilies Inc $25000-29999 (2019),NIXCY2530
+NonFamilies Inc $30000-34999 (2019),NIXCY3035
+NonFamilies Inc $35000-39999 (2019),NIXCY3540
+NonFamilies Inc $40000-44999 (2019),NIXCY4045
+NonFamilies Inc $45000-49999 (2019),NIXCY4550
+NonFamilies Inc $50000-54999 (2019),NIXCY5055
+NonFamilies Inc $55000-59999 (2019),NIXCY5560
+NonFamilies Inc $60000-64999 (2019),NIXCY6065
+NonFamilies Inc $65000-69999 (2019),NIXCY6570
+NonFamilies Inc $70000-74999 (2019),NIXCY7075
+NonFamilies Inc $75000-79999 (2019),NIXCY7580
+NonFamilies Inc $80000-84999 (2019),NIXCY8085
+NonFamilies Inc $85000-89999 (2019),NIXCY8590
+NonFamilies Inc $90000-94999 (2019),NIXCY9095
+NonFamilies Inc $95000-99999 (2019),NIXCY95100
+NonFamilies Inc $100000-124999 (2019),NIXCY10025
+NonFamilies Inc $125000-149999 (2019),NIXCY12550
+NonFamilies Inc $150000-199999 (2019),NIXCY15020
+NonFamilies Inc $200000-249999 (2019),NIXCY20050
+NonFamilies Inc $250000-499999 (2019),NIXCY25050
+NonFamilies Inc $500000+ (2019),NIXCYGT500
+Now Married (2019),MARCYMARR
+Occupied units owner (2019),DWLCYOWNED
+Occupied units renter (2019),DWLCYRENT
+Other Non-Institutional Group Quarters (2019),GRPCYOTHN
+Owner hh 1 vehicle available (2019),VPHCYO1
+Owner hh 2 vehicles available (2019),VPHCYO2
+Owner hh 3 vehicles available (2019),VPHCYO3
+Owner hh 4 vehicles available (2019),VPHCYO4
+Owner hh 5+ vehicles available (2019),VPHCYO5
+Owner hh no vehicle available (2019),VPHCYO0
+Owner Households - 1 Person (2019),HSTCYOWN1
+Owner Households - 2 Person (2019),HSTCYOWN2
+Owner Households - 3 Person (2019),HSTCYOWN3
+Owner Households - 4 Person (2019),HSTCYOWN4
+Owner Households - 5 Person (2019),HSTCYOWN5
+Owner Households - 6 Person (2019),HSTCYOWN6
+Owner Households - 7+ Person (2019),HSTCYOWN7
+Per capita income (2019),INCCYPCAP
+Pop 16+ civilian employed (2019),LBFCYEMPL
+Pop 16+ civilian unemployed (2019),LBFCYUNEM
+Pop 16+ in Armed Forces (2019),LBFCYARM
+Pop 16+ not in labor force (2019),LBFCYNLF
+Pop 25+ 9th-12th grade no diploma (2019),EDUCYSHSCH
+Pop 25+ Associate degree (2019),EDUCYASSOC
+"Pop 25+ Bachelor's degree (2019)",EDUCYBACH
+Pop 25+ college no diploma (2019),EDUCYSCOLL
+Pop 25+ graduate or prof school degree (2019),EDUCYGRAD
+Pop 25+ HS graduate (2019),EDUCYHSCH
+Pop 25+ less than 9th grade (2019),EDUCYLTGR9
+Pop Age < 1 Year (2019),AGDCYLT1
+Pop Age >85 (2019),AGDCYGT85
+Pop age 0-4 (2019),AGECY0004
+Pop Age 1 (2019),AGDCY1
+Pop Age 2 (2019),AGDCY2
+Pop Age 3 (2019),AGDCY3
+Pop Age 4 (2019),AGDCY4
+Pop Age 5 (2019),AGDCY5
+Pop age 5-9 (2019),AGECY0509
+Pop Age 6 (2019),AGDCY6
+Pop Age 7 (2019),AGDCY7
+Pop Age 8 (2019),AGDCY8
+Pop Age 9 (2019),AGDCY9
+Pop Age 10 (2019),AGDCY10
+Pop age 10-14 (2019),AGECY1014
+Pop Age 11 (2019),AGDCY11
+Pop Age 12 (2019),AGDCY12
+Pop Age 13 (2019),AGDCY13
+Pop Age 14 (2019),AGDCY14
+Pop Age 15 (2019),AGDCY15
+Pop age 15-19 (2019),AGECY1519
+Pop Age 15+ (2019),AGECYGT15
+Pop Age 16 (2019),AGDCY16
+Pop Age 16+ (2019),LBFCYPOP16
+Pop Age 17 (2019),AGDCY17
+Pop Age 18 (2019),AGDCY18
+Pop Age 19 (2019),AGDCY19
+Pop Age 20-24 (2019),AGDCY2024
+Pop age 20-24 (2019),AGECY2024
+Pop Age 25-29 (2019),AGDCY2529
+Pop age 25-29 (2019),AGECY2529
+Pop Age 25+ (2019),AGECYGT25
+Pop Age 30-34 (2019),AGDCY3034
+Pop age 30-34 (2019),AGECY3034
+Pop Age 35-39 (2019),AGDCY3539
+Pop age 35-39 (2019),AGECY3539
+Pop Age 40-44 (2019),AGDCY4044
+Pop age 40-44 (2019),AGECY4044
+Pop Age 45-49 (2019),AGDCY4549
+Pop age 45-49 (2019),AGECY4549
+Pop Age 50-54 (2019),AGDCY5054
+Pop age 50-54 (2019),AGECY5054
+Pop Age 55-59 (2019),AGDCY5559
+Pop age 55-59 (2019),AGECY5559
+Pop Age 60-64 (2019),AGDCY6064
+Pop age 60-64 (2019),AGECY6064
+Pop Age 65-69 (2019),AGDCY6569
+Pop age 65-69 (2019),AGECY6569
+Pop Age 70-74 (2019),AGDCY7074
+Pop age 70-74 (2019),AGECY7074
+Pop Age 75-79 (2019),AGDCY7579
+Pop age 75-79 (2019),AGECY7579
+Pop Age 80-84 (2019),AGDCY8084
+Pop age 80-84 (2019),AGECY8084
+Pop age 85+ (2019),AGECYGT85
+Pop Am In/AK Nat (2019),RACCYAMIND
+Pop Asian (2019),RACCYASIAN
+Pop black (2019),RACCYBLACK
+Pop female (2019),SEXCYFEM
+Pop female < 5 yrs (2019),AGECYF0004
+Pop female 5-9 yrs (2019),AGECYF0509
+Pop female 10-14 yrs (2019),AGECYF1014
+Pop female 15-19 yrs (2019),AGECYF1519
+Pop female 16+ civilian employed (2019),LBFCYFEMPL
+Pop female 16+ civilian unemployed (2019),LBFCYFUNEM
+Pop female 16+ in Armed Forces (2019),LBFCYFARM
+Pop female 16+ not in labor force (2019),LBFCYFNLF
+Pop female 20-24 yrs (2019),AGECYF2024
+Pop female 25-29 yrs (2019),AGECYF2529
+Pop female 30-34 yrs (2019),AGECYF3034
+Pop female 35-39 yrs (2019),AGECYF3539
+Pop female 40-44 yrs (2019),AGECYF4044
+Pop female 45-49 yrs (2019),AGECYF4549
+Pop female 50-54 yrs (2019),AGECYF5054
+Pop female 55-59 yrs (2019),AGECYF5559
+Pop female 60-64 yrs (2019),AGECYF6064
+Pop female 65-69 yrs (2019),AGECYF6569
+Pop female 70-74 yrs (2019),AGECYF7074
+Pop female 75-79 yrs (2019),AGECYF7579
+Pop female 80-84 yrs (2019),AGECYF8084
+Pop female 85+ yrs (2019),AGECYFGT85
+Pop Hawaiian/PI (2019),RACCYHAWAI
+Pop Hispanic (2019),HISCYHISP
+Pop in Family Hhlds (2019),POPCYFAM
+Pop in Group Quarters (2019),POPCYGRP
+Pop In Labor Force (2019),LBFCYLBF
+Pop in Non-Family Hhlds (2019),POPCYNFM
+Pop male (2019),SEXCYMAL
+Pop male < 5 yrs (2019),AGECYM0004
+Pop male 5-9 yrs (2019),AGECYM0509
+Pop male 10-14 yrs (2019),AGECYM1014
+Pop male 15-19 yrs (2019),AGECYM1519
+Pop male 16+ civilian employed (2019),LBFCYMEMPL
+Pop male 16+ civilian unemployed (2019),LBFCYMUNEM
+Pop male 16+ in Armed Forces (2019),LBFCYMARM
+Pop male 16+ not in labor force (2019),LBFCYMNLF
+Pop male 20-24 yrs (2019),AGECYM2024
+Pop male 25-29 yrs (2019),AGECYM2529
+Pop male 30-34 yrs (2019),AGECYM3034
+Pop male 35-39 yrs (2019),AGECYM3539
+Pop male 40-44 yrs (2019),AGECYM4044
+Pop male 45-49 yrs (2019),AGECYM4549
+Pop male 50-54 yrs (2019),AGECYM5054
+Pop male 55-59 yrs (2019),AGECYM5559
+Pop male 60-64 yrs (2019),AGECYM6064
+Pop male 65-69 yrs (2019),AGECYM6569
+Pop male 70-74 yrs (2019),AGECYM7074
+Pop male 75-79 yrs (2019),AGECYM7579
+Pop male 80-84 yrs (2019),AGECYM8084
+Pop male 85+ yrs (2019),AGECYMGT85
+Pop multirace (2019),RACCYMULT
+Pop Non-Hispanic (2019),HISCYNONH
+Pop other race (2019),RACCYOTHER
+Pop white (2019),RACCYWHITE
+Population (2019),POPCY
+Population Age < 18 Asian (2019),AGRCYASIAN
+Population Age < 18 Black (2019),AGRCYBLACK
+Population Age < 18 Hispanic (2019),AGRCYHISP
+Population Age < 18 Other not Hispanic (2019),AGRCYOMNH
+Population Age < 18 White not Hispanic (2019),AGRCYWNH
+RecID,RecID
+Renter hh 1 vehicle available (2019),VPHCYR1
+Renter hh 2 vehicles available (2019),VPHCYR2
+Renter hh 3 vehicles available (2019),VPHCYR3
+Renter hh 4 vehicles available (2019),VPHCYR4
+Renter hh 5+ vehicles available (2019),VPHCYR5
+Renter hh no vehicle available (2019),VPHCYR0
+Separated (2019),MARCYSEP
+Unemployment Rate (2019),UNECYRATE
+Widowed (2019),MARCYWIDOW
