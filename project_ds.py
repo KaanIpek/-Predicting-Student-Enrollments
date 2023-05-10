@@ -66,15 +66,16 @@ def read_and_merge_data():
 
     train_data = train_data.merge(gray_data, left_on="nearest_campus_hashed_geoid", right_on="geoid_hashed")
     train_data = train_data.merge(census_data, left_on="student_geoid_hashed", right_on="geoid_hashed")
-
-    test_data = X_test.merge(gray_data, left_on="nearest_campus_hashed_geoid", right_on="geoid_hashed")
-    test_data = test_data.merge(census_data, left_on="student_geoid_hashed", right_on="geoid_hashed")
-
+    print(X_test.shape)
+    test_data = X_test.merge(gray_data, how='left', left_on="nearest_campus_hashed_geoid", right_on="geoid_hashed")
+    test_data = test_data.merge(census_data, how='left', left_on="student_geoid_hashed", right_on="geoid_hashed")
+    print(test_data.shape)
     train_data['student_geoid_hashed'] = train_data['student_geoid_hashed'].str.lstrip('a').astype(int)
     train_data['nearest_campus_hashed_geoid'] = train_data['nearest_campus_hashed_geoid'].str.lstrip('a').astype(int)
 
     test_data['student_geoid_hashed'] = test_data['student_geoid_hashed'].str.lstrip('a').astype(int)
     test_data['nearest_campus_hashed_geoid'] = test_data['nearest_campus_hashed_geoid'].str.lstrip('a').astype(int)
+    print(test_data.shape)
 
     return train_data, test_data
 
@@ -168,17 +169,15 @@ def plot_histogram_of_residuals(residuals):
 
 # Main function
 if __name__ == "__main__":
-    # Read and merge the data
     train_data, test_data = read_and_merge_data()
-
+    print(test_data.shape)
     y = train_data["starts"]
 
-    selected_features = ["nearest_campus_hashed_geoid", "student_geoid_hashed", "nearest_campus_id",
-                         "nearest_campus_distance", "INCCYMEDHH", "INCCYPCAP", "EDUCYBACH", "EDUCYGRAD", "LBFCYEMPL",
-                         "LBFCYUNEM",
-                         "DWLCYOWNED", "DWLCYRENT", "DADI", "DACI", "DAGI", "DAEI", "Google", "Inquiries",
-                         "BLS Job Openings", "BLS Current Employment"]
+    selected_features = ["nearest_campus_hashed_geoid","student_geoid_hashed","nearest_campus_id", "nearest_campus_distance", "INCCYMEDHH", "INCCYPCAP", "EDUCYBACH", "EDUCYGRAD", "LBFCYEMPL", "LBFCYUNEM",
+                         "DWLCYOWNED", "DWLCYRENT","DADI","DACI","DAGI","DAEI","Google","Inquiries","BLS Job Openings","BLS Current Employment"]
     X = train_data[selected_features]
+
+    X_test_original_index = test_data
 
     # Apply data processing steps
     X, y = process_data(X, y)
@@ -203,8 +202,8 @@ if __name__ == "__main__":
 
     y_pred = best_rf_model.predict(test_data)
 
-    output = pd.DataFrame({"Index": test_data.index, "Predicted_Enrollment": y_pred})
-    output.to_csv("output.csv", index=False)
+    output = pd.DataFrame({"Key": X_test_original_index["key"].values, "Predicted_Enrollment": y_pred})
+    output.to_csv("output3.csv", index=False)
     scatter_plot(X["nearest_campus_distance"], y)
     plot_histogram_of_residuals(y_val - y_val_pred)
 
